@@ -82,7 +82,7 @@ typedef NS_ENUM(NSUInteger, TUINetStatus) {
  *  TUIKit网络状态类，存储当前网络状态
  */
 @property (readonly) TUINetStatus netStatus;
-//随便写点什么测试
+//随便写点什么测试ddfd
 @end
 
 
